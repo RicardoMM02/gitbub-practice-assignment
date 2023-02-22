@@ -1,0 +1,6 @@
+VariableName,Description,Variable_type,Units
+Date_collected,The date the selected animal was captured,Real,NA
+Species,"Species of the captured animal, left blank if not distinguishable",String,NA
+Plot,The plot of land in which the animal was captured,Real,NA
+Sex,"Sex of the captured animal, left blank if not distinguishable",String,NA
+Weight_grams,"Weight (in grams) of the captured animal, filled in a gray color if scale was not calibrated correctly",Real,Grams
